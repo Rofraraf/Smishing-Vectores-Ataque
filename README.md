@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Simulación de Ataques de Smishing: Caso Netflix
 
 ### Descripción general
@@ -46,9 +45,5 @@ Los enlaces utilizados en el proyecto, como herramientas, noticias y videos educ
 - **Noticia de Netflix Smishing:** Caso práctico basado en un artículo reciente.  
   [https://cincodias.elpais.com/smartlife/lifestyle/2024-12-05/cuidado-con-esta-estafa-se-hacen-pasar-por-netflix-para-vaciar-tu-cuenta-bancaria.html](https://cincodias.elpais.com/smartlife/lifestyle/2024-12-05/cuidado-con-esta-estafa-se-hacen-pasar-por-netflix-para-vaciar-tu-cuenta-bancaria.html)
 
----
 
-=======
-# Smishing-Vectores-Ataque
-Actividad Grupal, Vectores de Ataque- Smishing
->>>>>>> 388eae8f313460c7f8108bfb732d8bd6f1fe0952
+
