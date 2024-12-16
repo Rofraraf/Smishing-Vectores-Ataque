@@ -1,4 +1,4 @@
-"# Recursos" 
+# Recursos 
 Esta carpeta contiene materiales utilizados durante el desarrollo de la actividad de simulación de smishing. Está organizada en las siguientes subcarpetas:
 
 - **Capturas:** Imágenes de las configuraciones realizadas y procesos clave.
