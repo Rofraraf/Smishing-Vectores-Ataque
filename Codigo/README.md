@@ -1,9 +1,9 @@
-Carpeta de Código
+## Carpeta de Código
 
-Descripción
+### Descripción
 Esta carpeta contiene el script `zphisher.sh` modificado para la simulación del ataque de smishing.
 
-Cambios realizados:
+### Cambios realizados:
 
 - Se corrigió un problema con la integración de **Ngrok**, añadiendo las siguientes líneas de código en el script:
  
