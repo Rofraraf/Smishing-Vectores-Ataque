@@ -15,7 +15,7 @@ El repositorio está organizado en las siguientes carpetas:
    - Detalles de los cambios en la integración con **Ngrok**.
 
 2. 📁 **[Documentos/](Documentos/README.md)**  
-   - Incluye el informe técnico (`.docx`) y la presentación en PowerPoint (`.pptx`) que documentan el caso práctico.
+   - Incluye el informe técnico (`.docx`, `.pdf`) y la presentación en PowerPoint (`.pptx`) que documentan el caso práctico.
 
 3. 📁 **[Recursos/](Recursos/README.md)**  
    - Contiene capturas de pantalla y videos tutoriales que complementan la simulación:
